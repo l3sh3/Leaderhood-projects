@@ -1,0 +1,114 @@
+/* background for header buttons */
+.first-div{
+    background-color: black;
+    width: 1500px;
+    height: 70px;
+}
+
+
+/* design for home button */
+.home{
+    background-color: rgb(14, 129, 14);
+    border: none;
+    height: 35px;
+    width: 110px;
+    border-radius: 17.5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    margin-left: 350px;
+    transition: opacity 0.15s;
+}
+
+.home:hover{
+    opacity: 0.8;
+}
+
+.home:active{
+    opacity: 0.5;
+}
+
+/* design for "about goa" button */
+.goa{
+    background-color:  rgb(14, 129, 14);
+    border: none;
+    height: 35px;
+    width: 120px;
+    border-radius: 17.5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    transition: opacity 0.15s;
+}
+
+.goa:hover{
+    opacity: 0.8;
+}
+
+.goa:active{
+    opacity: 0.5;
+}
+
+
+/* design for "my army" button*/
+.my-army{
+    background-color:  rgb(14, 129, 14);
+    border: none;
+    height: 35px;
+    width: 150px;
+    border-radius: 17.5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    transition: opacity 0.15s;
+}
+
+.my-army:hover{
+    opacity: 0.8;
+}
+
+.my-army:active{
+    opacity: 0.5;
+}
+
+
+/* design for "how to get started" button */
+.tutorial{
+    background-color:  rgb(14, 129, 14);
+    border: none;
+    height: 35px;
+    width: 150px;
+    border-radius: 17.5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    transition: opacity 0.15s;
+}
+
+.tutorial:hover{
+    opacity: 0.8;
+}
+
+.tutorial:active{
+    opacity: 0.5;
+}
+
+.button{
+    background-color:  rgb(14, 129, 14);
+    border: none;
+    height: 35px;
+    width: 150px;
+    border-radius: 17.5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    transition: opacity 0.15s;
+}
+
+.button:hover{
+    opacity: 0.8;
+}
+
+.button:active{
+    opacity: 0.5;
+}
